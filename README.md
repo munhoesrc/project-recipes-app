@@ -1,7 +1,7 @@
 <h4 align="center">
   <img width="180px" alt="trivia logo" src="https://i.imgur.com/xOXBDGH.png" />
-  <br /><br />
-  Um app de receitas.
+  <br />
+  Um aplicativo mobile de receitas.
 </h4>
 
 <hr />
