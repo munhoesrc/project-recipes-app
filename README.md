@@ -49,9 +49,9 @@ $ npm start
 
 <p>Projeto desenvolvido por:</p>
 <ul>
-  <li><a href="https://github.com/carlosbprado"/>Isabela Costa</a></li>
-  <li><a href="https://github.com/EbraimOliveira"/>Patrícia Pedroso</a></li>
-  <li><a href="https://github.com/Leonardo-Selegar"/>Rafael Bechstedt</a></li>
+  <li><a href="https://github.com/isaacost"/>Isabela Costa</a></li>
+  <li><a href="https://github.com/PatriciaPSP"/>Patrícia Pedroso</a></li>
+  <li><a href="https://github.com/RafaelBechstedt"/>Rafael Bechstedt</a></li>
   <li><a href="https://github.com/vinibortoletto"/>Vinicius Bortoletto</a></li>
   <li><a href="https://github.com/munhoesrc"/>Renan Casarin Munhoes</a></li>
 </ul>
