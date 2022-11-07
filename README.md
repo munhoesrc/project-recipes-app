@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img width="180px" alt="trivia logo" src="https://i.imgur.com/xOXBDGH.png" />
+  <img width="180px" alt="recipes logo" src="https://i.imgur.com/xOXBDGH.png" />
   <br />
   Um aplicativo mobile de receitas.
 </h4>
